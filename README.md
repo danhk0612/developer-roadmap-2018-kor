@@ -30,8 +30,8 @@
 
 - [X] Fork Original Repositories
 - [X] Remove except about Front-end
-- [ ] Translate Original Image Chart
-- [ ] Modify REAMDE
+- [X] Translate Original Image Chart
+- [X] Modify REAMDE
 
 ## 👬 기여방법
 
