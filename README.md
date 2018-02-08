@@ -14,11 +14,11 @@
 
 ## 🚀 소개
 
-![](https://i.imgur.com/OZUOUtI.png)
+![](./project-files/intro-map.png)
 
 ## 🎨 프론트 엔드 로드맵
 
-![](https://i.imgur.com/WrfLESm.png)
+![](./project-files/frontend-map.png)
 
 <br>
 
@@ -39,7 +39,7 @@
 
 - 개선사항은 pull 요청이나 이메일로
 - 논의사항은 이슈로
-- 직접 피드백을 보내시려면 제[이메일 주소](gorhkd0612@gmail.com)로..
+- 직접 피드백을 보내시려면 제 [이메일 주소](gorhkd0612@gmail.com)로..
 
 ## 스폰서
 
